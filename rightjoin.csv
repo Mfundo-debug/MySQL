@@ -1,0 +1,8 @@
+idClasses,Lecture_id,courses_id,time,id,last_name,first_name,Degree
+1,1,1,08:00:00,1,Captain,Havad,BSc.
+2,2,2,09:00:00,2,Olu,Tom,MSc.
+4,3,4,16:00:00,3,Rip,rash,PhD.
+3,4,3,14:00:00,4,Hawai,Hush,MSc.
+5,5,5,17:00:00,5,Monchwe,Mfundo,Hons
+6,6,6,15:00:00,6,Dagama,Sima,BSc.
+7,7,7,10:00:00,7,Trial,Test,PhD
