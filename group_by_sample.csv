@@ -1,0 +1,8 @@
+courseid,title,number_of_credits,course_code
+1,"Intro to Stats",16,DSTAT101
+2,"Machine Learning",20,DML105
+3,"Intro to C++",12,DIC102
+4,"Artificial Intelligence",20,DAI103
+5,Signals,14,DSI104
+6,"Applied Mathematics",16,DAM106
+7,"Computer Vision",16,DCS107
