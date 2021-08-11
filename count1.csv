@@ -1,0 +1,7 @@
+title,time,count(student_id)
+"Intro to Stats",08:00:00,1
+"Machine Learning",09:00:00,2
+"Intro to C++",14:00:00,2
+"Artificial Intelligence",16:00:00,1
+Signals,17:00:00,6
+"Applied Mathematics",15:00:00,1
